@@ -6,5 +6,5 @@ Efficiency Analysis and Improvements", EDBT/ICDT, 2014, Koumarelas I. et al.
 Authors
 =======
 
-*Agathangelou Sofia
-*Zlati Xenia
+* Agathangelou Sofia
+* Zlati Xenia
